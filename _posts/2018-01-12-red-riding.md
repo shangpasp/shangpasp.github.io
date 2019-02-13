@@ -1,7 +1,7 @@
 ---
 layout: post-right-sidebar
 title:  " Seminário A Vida, a Mente e as Palavras do Buda"
-author: Palden Shangpa
+author: palden
 categories: 
 image: assets/images/theme1.jpg
 ---
