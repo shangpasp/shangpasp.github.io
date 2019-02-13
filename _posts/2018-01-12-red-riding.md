@@ -1,16 +1,32 @@
 ---
 layout: post-right-sidebar
-title:  "Red Riding Hood"
-author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/3.jpg
+title:  " Seminário A Vida, a Mente e as Palavras do Buda"
+author: Palden Shangpa - SP
+categories: 
+image: assets/images/theme1.jpg
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+ Seminário A Vida, a Mente e as Palavras do Buda.
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”. 
+O Seminário tem como propósito de facilitar o acesso a prática da meditação, sem que complexas elaborações filosóficas religiosas ou linguísticas sejam um obstáculo.
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+O tema central é o funcionamento da mente, tendo como referencia a experiência empírica (diretamente verificável) por qualquer pessoa.
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+Ainda que seja inspirado pelos ensinamentos budistas essências, a abordagem não será especificamente budista. O Lama Trinle elaborou, com um trabalho de mais de 20 anos, um manual e um seminário de introdução à meditação. Ambos são fundados sobre correlações e convergências existentes entre os ensinamentos tradicionais e os conhecimentos contemporâneos sobre o tema: “A vida, a mente e as Palavras do Buda”.
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+O manual e o seminário visam simplesmente facilitar um conhecimento geral de o porque necessitamos praticar a meditação e simplificar de como se faz.
+
+Esse é o segundo encontro; No próximo domingo, 25 de novembro, das 08h as 11h.
+
+Teremos um terceiro encontro, que está programado para o dia 16 de dezembro.
+
+Para àqueles que não participaram do primeiro encontro e queiram participar, sem problemas! Faremos uma recapitulação desse primeiro encontro.
+
+Local: Rua Pedro Morganti, 76 – Vila Mariana (Unipaz) São Paulo-sp
+
+Inscrições: https://kalu.org.br/a-vida-a-mente-e-as-palavras-do-buda-e…/
+
+Informações ou dúvidas: Shangpa.sp@gmail.com ou pelo telefone ou WhatsApp 11 994843102 (c/preto)
+
+Atenciosamente,
+
+Sangha Palden Shangpa
