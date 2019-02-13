@@ -8,6 +8,10 @@ O Centro Budista Tibetano Kagyü Pende Gyamtso (Um Oceano de Benefícios) é uma
 
 O artigo a seguir, escrito por Lama Trinle em dezembro de 2013, aborda o contexto em que se inserem as atividades desenvolvidas no Centro, desde sua fundação até os dias atuais.
 
+
+![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
+
+
 #### A Tradição Shangpa Kagyu e a Perspectiva Não-Sectária
 
 **Kyabje Kalu Rinpoche e a Transmissão do Dharma**
@@ -25,9 +29,3 @@ Nos anos 80, após os primeiros retiros longos, Kalu Rimpoche considerou que era
 
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme2.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme3.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme4.jpg)
