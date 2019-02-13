@@ -828,7 +828,7 @@ iframe {
     max-width:100%;
 }
 
-@media (max-width:1166) {
+@media (max-width:1266) {
     .container {
         width: 96%;
         max-width: 100%;
