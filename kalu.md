@@ -9,12 +9,14 @@ comments: false
 
 **I Kalu Rimpoche**
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
+![jekyll template mediumish]({{site.baseurl}}/assets/images/kalu-i.jpg)
 
 I Kalu Rinpoche nasceu em uma aldeia no leste da província oriental Kham, no Tibete em 1905. Uma série de eventos auspiciosos marcaram seu nascimento. Ensinado a ler e a escrever por seu pai e um aluno extraordinário, tomou o hábito de monge ainda criança no mosteiro de Begen e aos onze anos de idade recebeu uma cadeira de Khenpo, título equivalente a “doutor em Budismo” (normalmente são necessários cerca de doze anos de estudos superiores para obtê-lo). Dedicando-se aos estudos e recebendo grandes mestres de todas as escolas do Budismo Tibetano, Kalu Rimpoche se fundamentou na transmissão tradicional (iniciações, leituras rituais e explicações) e recebeu a ordenação maior de Situ Rinpoche, que, na ocasião, deu-lhe o nome de Karma Rangjung Kunkhyab, nome que profetizava que sua atividade difundiria-se de modo espontâneo (rangjung) e universal (kunkhyab), por toda a terra.
 Foi um dos primeiros grandes mestres tibetanos a abrir livremente a todos – asiáticos e ocidentais -, o acesso à riqueza da tradição Budista, cuidadosamente preservada no Tibete desde os últimos mil anos. Desde o início dos anos 1970, apesar de sua idade avançada, ele fez muitas viagens internacionais, apresentando progressivamente a diversos grupos diferentes níveis de ensinamentos, introduzindo as práticas correspondentes e fundando mais de 70 centros do dharma em diferentes países. No mundo inteiro, sua bondade e sua atividade espiritual suscitaram imensos resultados para a doutrina e para os seres.
     
 **II Kalu Rimpoche**
+
+![jekyll template mediumish]({{site.baseurl}}/assets/images/kalu-ii.jpg)
 
 Alguns anos antes da passagem da precedente encarnação (em 1989), Kalu Rinpoche disse a um grupo de discípulos: “Quando eu morrer, não será como a morte de um cachorro. Eu irei depois de ter preparado tudo em detalhes.”
 II Kalu Rinpoche renasceu, como ele próprio havia previsto, em 1990 em seu monastério na Índia. Seu nascimento ocorreu durante um ritual de oferenda mensal à divindade protetora Mahakala de Seis Braços e, novamente, vários sinais positivos e maravilhosos manifestaram-se.
