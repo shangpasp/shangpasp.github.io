@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Apresentação
+title: A Tradição Shangpa Kagyu e a Perspectiva Não-Sectária
 comments: false
 ---
 
