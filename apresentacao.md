@@ -4,11 +4,11 @@ title: Apresentação
 comments: false
 ---
 
-Em 2012, Kyabje Kalu Rinpoche veio ao Brasil, na ocasião, em uma reunião com alguns praticantes de São Paulo, Rinpoche deu a autorização de iniciar os encontros, para Estudo e Prática, sob orientações do Lama Trinle e do Lama Sonam, residentes em Brasília, além do Lama Tartchin, do KTT, do Rio de Janeiro.
 
-Portanto, <i>Palden Shangpa-SP</i> deu inicio às suas atividades em 2013, vinculada ao <i>Centro Budista Tibetano Kagyu Pende Gyamtso</i>, de Brasília, que tem por objetivo o estudo e a divulgação do Budismo, em particular o Vajrayana, em seu aspecto religioso, filosófico, artístico e cultural, ligado à linhagem da Transmissão Oral Shangpa Kagyü, a qual se perpetua sem interrupção por mais de dez séculos, até os dias de hoje.
+Em 2012, Kyabje Kalu Rinpoche esteve no Brasil e, na ocasião, em uma reunião com alguns praticantes de São Paulo, o Rinpoche autorizou o grupo a iniciar o Estudo e a Prática, sob orientações do Lama Trinle e do Lama Sonam, residentes em Brasília (no KPG), além do Lama Tartchin, do KTT (Karme Thegsum Tcholing,  Centro  de Budismo Tibetano), do Rio de Janeiro.
+Vinculada ao  <a href="https://kalu.org.br/">Centro Budista Tibetano Kagyu Pende Gyamtso (KPG)</a>, de Brasília, Palden Shangpa SP deu início às suas atividades em 2013 tendo como objetivo o estudo e a divulgação do Budismo, em particular o Vajrayana, em seu aspecto religioso, filosófico, artístico e cultural. 
+Ligado à linhagem da Transmissão Oral Shangpa Kagyü, que se perpetua sem interrupção há mais de dez séculos, até os dias de hoje, Palden Shangpa SP segue as orientações dos Lamas do KPG. 
 
-Palden Shangpa-SP segue as orientações dos Lamas do KPG, portanto, deixamos o artigo a seguir, na integra, foi escrito por Lama Trinle em dezembro de 2013, aborda o contexto em que se inserem as atividades desenvolvidas no KPG, e desde 2012, no Palden Shangpa-SP.
 
 #### A Tradição Shangpa Kagyu e a Perspectiva Não-Sectária
 
