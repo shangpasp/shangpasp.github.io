@@ -40,4 +40,4 @@ Kalu Rinpoche, que foi um continuador dessa visão, inspira nossa orientação. 
 
 Lama Trinle(1)
 
-(1) Lama Karma Trinlé Kunkhyab nasceu na França em 1949 e esteve presente em 1977, no primeiro retiro de três anos que Kalu Rinpoche proporcionou aos ocidentais. Em março de 2005, veio para o Brasil, residir em Brasília, para organizar o primeiro retiro de três anos da Linhagem Shangpa, além de desenvolver as atividades de estudo e prática do KPG
+(1) Lama Karma Trinlé Kunkhyab nasceu na França em 1949 e esteve presente em 1977, no primeiro retiro de três anos que Kalu Rinpoche proporcionou aos ocidentais. Em março de 2005, veio para o Brasil, residir em Brasília, para organizar o primeiro retiro de três anos da Linhagem Shangpa, além de desenvolver as atividades de estudo e prática do KPG.
