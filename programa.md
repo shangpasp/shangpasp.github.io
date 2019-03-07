@@ -18,8 +18,6 @@ O Programa prevê ainda oportunizar aos praticantes mais aplicados que estejam i
 O Programa de Estudos e Práticas do Palden Shangpa São Paulo oferece aos participantes todas as condições para a construção de uma base bastante sólida sobre o Budismo, suas tradições, seus grandes mestres, imagens, símbolos, ensinamentos e práticas, em especial os da Linhagem <i>Shangpa</i>, a qual o Palden Shangpa São Paulo é vinculado.
 Para isso, Kyabje Kalu Rinpoche autorizou que os Lamas do KPG – Kagyu Pende Gyamtso, de Brasília, a qual estamos vinculados, e mais o Lama Tartchin, do KTT – Karme Thegsum Tcholing, do Rio de Janeiro, para dar Ensinamentos no Palden Shangpa São Paulo. O Lama Trinle autorizou também ao Neljorpa Tsultrin Tchokyi Don Drub (Preto Benvenuto) a conduzir os Estudos e Práticas no Palden Shangpa São Paulo.
   
-![jekyll template mediumish]({{site.baseurl}}/assets/images/kalu-i.jpg)
-
 #### Contribuições
 
 A manutenção do espaço e possibilidade de organização das atividades é resultado da generosidade dos praticantes do local, o valor da participação mensal deve ser compatível com as possibilidades de cada um: a contribuição sugerida é de R$100 para os que puderem; R$50 para os que dispõem de recursos médios; e R$30 para estudantes e pessoas que disponham de menos recursos. A contribuição pode ser feita diretamente, ou por depósito bancário na conta da Flávia (nossa tesoureira).
