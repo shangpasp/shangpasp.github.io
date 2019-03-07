@@ -20,4 +20,4 @@ Para isso, Kyabje Kalu Rinpoche autorizou que os Lamas do KPG – Kagyu Pende Gy
   
 #### Contribuições
 
-A manutenção do espaço e possibilidade de organização das atividades é resultado da generosidade dos praticantes do local, o valor da participação mensal deve ser compatível com as possibilidades de cada um: a contribuição sugerida é de R$100 para os que puderem; R$50 para os que dispõem de recursos médios; e R$30 para estudantes e pessoas que disponham de menos recursos. A contribuição pode ser feita diretamente, ou por depósito bancário na conta da Flávia (nossa tesoureira).
+A manutenção do espaço e possibilidade de organização das atividades é resultado da generosidade dos praticantes do local, o valor da participação mensal deve ser compatível com as possibilidades de cada um. A contribuição pode ser feita diretamente, ou por depósito bancário na conta da Flávia (nossa tesoureira).
