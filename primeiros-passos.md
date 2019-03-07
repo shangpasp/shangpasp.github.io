@@ -17,6 +17,6 @@ Se possível, sugerimos que todos tragam algo para o nosso café da manhã colab
 
 **Quero começar a praticar, como faço?**
 
-O programa de práticas inicia com o Seminário A Vida, a Mente e as Palavras do Buda, que consiste em três encontros introdutórios. Para inscrever-se, basta acessar <a href="https://docs.google.com/forms/u/2/d/1c86enlULarrhw2o-H5PPOj9oQvSWzGKrKiGd8lpJxDI/edit?usp=drive_web">este formulário</a>, preencher as informações necessárias e selecionar sua opção de contribuição. Após o preenchimento você receberá no seu e-mail as orientações para pagamento.
+O programa de práticas inicia com o Seminário A Vida, a Mente e as Palavras do Buda, que consiste em três encontros introdutórios. Para inscrever-se, basta acessar <a href="https://docs.google.com/forms/u/2/d/1c86enlULarrhw2o-H5PPOj9oQvSWzGKrKiGd8lpJxDI/edit?usp=drive_web">este formulário</a>, preencher as informações necessárias e selecionar sua opção de contribuição. Após o preenchimento você receberá no seu e-mail as orientações para pagamento. Lembre-se de vir com uma roupa confortável e, se possível, traga algo para compartilharmos no café da manhã.
 
 Dúvidas adicionais podem ser tiradas pelo e-mail: shangpa.sp@gmail.com ou pela nossa página no <a href="https://www.facebook.com/PaldenShangpa/">Facebook</a>.
