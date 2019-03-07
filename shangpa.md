@@ -18,4 +18,4 @@ https://www.shangpafoundation.org/library/masters/
 
 O principal protetor da linhagem é o Mahakala de seis braços. Todos os Mahakalas são manifestações de Avalokiteshvara (ou Tchenrezig), que é uma divindade pacífica e plácida. No entanto, por vezes, essa manifestação pacífica não ajuda a domar o karma e, então, surge sua manifestação colérica.
 As manifestações de Buda são ilimitadas e nem sempre elas são amigáveis e sorridentes. Existe um Buda sorridente, um Buda carrancudo e existe um Buda com chamas flamejantes. Mahakala é o Buda com as chamas flamejantes. 
-Sua manifestação dessa forma é para nos ajudar: nos proteger de todas as nossas máculas e nos ajudar em todos os nossos obstáculos. Todos temos um pequeno demônio dentro de nós, Mahakala nos ajuda a domar esse demônio para que possamos transformá-lo em um generoso bodhisattva.
+Sua manifestação dessa forma é para nos ajudar: nos proteger de todas as nossas máculas e nos ajudar em todos os nossos obstáculos. Todos temos um pequeno demônio dentro de nós, Mahakala nos ajuda a domar esse demônio para que possamos transformá-lo em um generoso <i>bodhisattva</i>.
