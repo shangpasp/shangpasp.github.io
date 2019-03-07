@@ -344,7 +344,6 @@ span.post-name a,span.post-read-more a:hover {
     box-shadow: 0 6px 10px 0 rgba(0,0,0,0.1);
     text-transform: uppercase;
     font-size: 13px;
-    text-indent: 50px;
     letter-spacing: 1px;
 }
 .intro h1 {
@@ -410,7 +409,8 @@ span.post-name a,span.post-read-more a:hover {
 	color:rgba(0,0,0,.8);
 }
 .article-post {
-	font-size:1.1rem;
+	font-size:1.1rem;    
+	text-indent: 50px;
 	line-height:1.8;
 	color:rgba(0,0,0,.8);
 }
