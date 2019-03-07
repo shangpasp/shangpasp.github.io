@@ -20,4 +20,5 @@ Por essas características, o livro de Gampopa foi escolhido para ser o eixo do 
   
 #### Contribuições
 
+<p align="justify">Praticantes motivados a estudar e praticar com diligência e compromisso serão muito bem-vindos ao grupo. Caso você já possua experiência com a prática budista, pedimos que preencham o formulário disponível <a href="https://goo.gl/forms/Y48sP9tAOnjeB1vj2">neste link.</a></p>
 <p align="justify">   A manutenção do espaço e possibilidade de organização das atividades é resultado da generosidade dos praticantes do local, o valor da participação mensal deve ser compatível com as possibilidades de cada um. A contribuição pode ser feita diretamente, ou por depósito bancário na conta da Flávia (nossa tesoureira).</p>
