@@ -31,6 +31,7 @@ comments: false
 
 <!--End mc_embed_signup-->
 
+<br/>
 **Quero começar a praticar, como faço?**
 
 <p align="justify">   O programa de práticas inicia com o Seminário A Vida, a Mente e as Palavras do Buda, que consiste em três encontros introdutórios, tendo início dia 17 de março às 8h. Para inscrever-se, basta acessar <a href="https://docs.google.com/forms/u/2/d/1c86enlULarrhw2o-H5PPOj9oQvSWzGKrKiGd8lpJxDI/edit?usp=drive_web">este formulário</a>, preencher as informações necessárias e selecionar sua opção de contribuição. Após o preenchimento você receberá no seu e-mail as orientações para pagamento. Lembre-se de vir com uma roupa confortável e, se possível, traga algo para compartilharmos no café da manhã.</p>
