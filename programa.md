@@ -20,5 +20,12 @@ comments: false
   
 #### Contribuições
 
-<p align="justify">Praticantes motivados a estudar e praticar com diligência e compromisso serão muito bem-vindos ao grupo. Caso você já possua experiência com a prática budista, pedimos que preencham o formulário disponível <a href="https://goo.gl/forms/Y48sP9tAOnjeB1vj2">neste link.</a></p>
-<p align="justify">   A manutenção do espaço e possibilidade de organização das atividades é resultado da generosidade dos praticantes do local, o valor da participação mensal deve ser compatível com as possibilidades de cada um. A contribuição pode ser feita diretamente, ou por depósito bancário na conta da Flávia (nossa tesoureira).</p>
+<p align="justify">Praticantes motivados a estudar e praticar com diligência e compromisso serão muito bem-vindos ao grupo. Caso você já possua experiência com a prática budista, pedimos que preencham o formulário disponível <a href="https://goo.gl/forms/Y48sP9tAOnjeB1vj2">neste link</a>.</p>
+<p align="justify">   A Sangha é aberta a todos que queiram praticar os ensinamentos de Buda. 
+Nós possuímos um programa de contribuições voluntárias. Dessa forma, se puder contribuir com algum valor mensal, converse a Flávia. Ela é nossa tesoureira e poderá te passar algumas instruções. </p>
+<p align="justify">   Se não puder, queremos que sinta-se à vontade para vir às práticas e seguir esse caminho da virtude conosco. Todos são bem-vindos!</p>
+
+
+
+
+
