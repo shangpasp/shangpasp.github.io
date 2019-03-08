@@ -3,7 +3,7 @@ layout: post-right-sidebar
 title:  " Seminário A Vida, a Mente e as Palavras do Buda"
 author: palden
 categories: 
-image: assets/images/head.jpg
+image: assets/images/posts/2019-03-06-vida-e-mente.jpg
 ---
 
 Em correspondência com os conhecimentos contemporâneos sobre a forma como corpo e mente se relacionam, apresentaremos em nossos encontros métodos de meditação para que possamos compreender e experimentar empiricamente os benefícios dessa prática.
