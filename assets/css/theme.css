@@ -5,7 +5,8 @@ Version:1.0.2
 License: https://www.wowthemes.net/freebies-license/
 */
 body {
-font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+	
     overflow-x: hidden;
 }
 .mainheading {
@@ -764,7 +765,7 @@ background-color: #fff;
 #mc_embed_signup {font-family:inherit !Important;}
 .sidebar-right .sidebar {max-width:inherit;}
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-    font-family: "Rubik", -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+font-family: 'Oswald', sans-serif;
 }
 .article-post .h1, .article-post .h2, .article-post .h3, .article-post .h4, .article-post .h5, .article-post .h6, .article-post h1, .article-post h2, .article-post h3, .article-post h4, .article-post h5, .article-post h6 {
     font-weight: 500;
