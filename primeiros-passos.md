@@ -13,7 +13,7 @@ comments: false
 
 <p align="justify">   Aconselhamos que venha com roupas confortáveis e sapatos fáceis de descalçar. Geralmente nos sentamos em colchonetes e almofadas para a prática, mas, caso você tenha alguma restrição ou dificuldade para sentar-se no chão, temos também cadeiras. Se possível, sugerimos que todos tragam algo para o nosso café da manhã colaborativo.</p>
 
-<p align="justify">   Nossas atividades podem ser acompanhadas pelo <a href="https://bolitto.github.io/shangpa/programacao">calendário</a> disponível no site ou pela nossa newsletter.</p>
+<p align="justify">   Nossas atividades podem ser acompanhadas pelo <a href="http://shangpasp.com.br/programacao">calendário</a> disponível no site ou pela nossa newsletter.</p>
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
