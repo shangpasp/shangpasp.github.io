@@ -18,12 +18,15 @@ image: assets/images/posts/2019-03-13-vinda-kalu-rimpoche.jpeg
 **São Paulo**
 
 <p align="justify">Local: Centro Hiroshima Brasil, Salão Social – Rua Tamandaré, n.800, Liberdade – SP (mapa)</p>
+<p align="justify">Datas e horários:</p>
 <p align="justify">Data: 11 e 12 de maio</p>
 <p align="justify">Horário: 9h30 às 12h e 14h às 17h</p>
-<p align="justify">11 de maio (sábado)</p>
+
+<u>11 de maio (sábado)</u>
 
 <p align="justify">9h30 às 12h / 14h às 17h – Introdução ao Mahamudra: ensinamentos sobre meditação segundo a linhagem do budismo tibetano Palden Shangpa. Abertos aos iniciantes e praticantes do Dharma.</p>
-<p align="justify">12 de maio (domingo)</p>
+
+<u>12 de maio (domingo)</u>
 
 <p align="justify">9h30 às 12h – Introdução ao Mahamudra: continuação dos ensinamentos sobre meditação segundo a linhagem do budismo tibetano Palden Shangpa. Abertos aos iniciantes e praticantes do Dharma.</p>
 <p align="justify">14h às 17h –  Tomada de Refúgio e Iniciação de Tchenrezig</p>
@@ -36,26 +39,26 @@ image: assets/images/posts/2019-03-13-vinda-kalu-rimpoche.jpeg
 <p align="justify">18 e 19 de maio, das 9:30h às 12h e das 14h às 17h</p>
 <p align="justify">25 e 26 de maio, das 9:30h às 12h e das 14h às 17h</p>
 
-<b>17/05 (sexta)</b>
+<u>17/05 (sexta)</u>
 
 <p align="justify">18:30h às 21:30 – Introdução ao Mahamudra: ensinamentos sobre meditação segundo a linhagem do budismo tibetano Palden Shangpa. Abertos aos iniciantes e praticantes do Dharma.</p>
 
-<b>18/05 (sábado)</b>
+<u>18/05 (sábado)</u>
 
 <p align="justify">9h30 às 12h – Introdução ao Mahamudra: segunda parte dos ensinamentos sobre meditação segundo a linhagem do budismo tibetano Palden Shangpa. Abertos aos iniciantes e praticantes do Dharma. Nesta mesma sessão haverá Tomada de Refúgio</p>
 14h ás 17h –  Iniciação de Tchenrezig
 
-<b>19/05 (domingo)</b>
+<u>19/05 (domingo)</u>
 
 <p align="justify">9h30 às 12h – Introdução ao Mahamudra: terceira parte dos ensinamentos sobre meditação segundo a linhagem do budismo tibetano Palden Shangpa. Abertos aos iniciantes e praticantes do Dharma.</p>
 14h às 17h – Iniciação de Tara Verde
 
-<b>25/05 (sábado)</b>
+<u>25/05 (sábado)</u>
 
 9:30 às 12h – Instruções sobre a prática de Mahakala
 14h às 17h –  Iniciação de Mahakala com Tsok
 
-<b>26/05 (domingo)</b>
+<u>26/05 (domingo)</u>
 
 9:30 às 12h – Instruções sobre a prática das Quatro Divindades
 14h às 17h – Iniciação das Quatro Divindades
