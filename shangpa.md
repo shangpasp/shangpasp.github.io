@@ -13,9 +13,9 @@ comments: false
 https://www.shangpafoundation.org/library/masters/
 
 **O protetor da Linhagem Shangpa Kagÿu**
-
+<p align="justify"> 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/mahakala-i.jpg)
-
+</p>
 <p align="justify">   O principal protetor da linhagem é o Mahakala de seis braços. Todos os Mahakalas são manifestações de Avalokiteshvara (ou Tchenrezig), que é uma divindade pacífica e plácida. No entanto, por vezes, essa manifestação pacífica não ajuda a domar o karma e, então, surge sua manifestação colérica.</p>
 <p align="justify">   As manifestações de Buda são ilimitadas e nem sempre elas são amigáveis e sorridentes. Existe um Buda sorridente, um Buda carrancudo e existe um Buda com chamas flamejantes. Mahakala é o Buda com as chamas flamejantes. </p>
 <p align="justify">   Sua manifestação dessa forma é para nos ajudar: nos proteger de todas as nossas máculas e nos ajudar em todos os nossos obstáculos. Todos temos um pequeno demônio dentro de nós, Mahakala nos ajuda a domar esse demônio para que possamos transformá-lo em um generoso <i>bodhisattva</i>.</p>
