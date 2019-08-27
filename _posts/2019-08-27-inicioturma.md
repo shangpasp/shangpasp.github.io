@@ -34,6 +34,5 @@ image: assets/images/posts/2019-08-27-inicio-turma.jpeg
 
 <p align="justify">Não haverá valor de contribuição, porém, àqueles que queiram participar contribuindo mensalmente, sendo um “mantenedor” das atividades do Palden Shangpa São Paulo, serão muito bem vindos. Conforme estabelecido pela nossa Sangha, aqueles que contribuem mensalmente, não pagam nos eventos promovidos pelo Palden Shangpa São Paulo</p>
 
-<b>INSCRIÇÕES PELO LINK:</b> https://forms.gle/a3E1MeCXEos3Uy5H8
-
+<a href="https://forms.gle/a3E1MeCXEos3Uy5H8">Inscrições</a>
 
