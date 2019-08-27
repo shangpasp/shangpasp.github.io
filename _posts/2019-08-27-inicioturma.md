@@ -3,7 +3,7 @@ layout: post-right-sidebar
 title:  " Ensinamentos sobre a prática de Tcherenzig"
 author: palden
 categories: 
-image: assets/images/posts/lotus.jpg
+image: assets/images/posts/2019-08-27-inicio-turma.jpeg
 ---
 
 <p align="justify">Tashi Delek, caros amigos e caras amigas.</p>
