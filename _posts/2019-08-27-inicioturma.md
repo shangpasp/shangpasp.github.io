@@ -1,6 +1,6 @@
 ---
 layout: post-right-sidebar
-title:  " Ensinamentos sobre a prática de Tcherenzig"
+title:  "Início da turma de nível 1"
 author: palden
 categories: 
 image: assets/images/posts/2019-08-27-inicio-turma.jpeg
