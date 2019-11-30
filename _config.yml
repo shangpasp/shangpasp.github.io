@@ -1,6 +1,6 @@
 # Site
-name: Palden Shangpa São Paulo - Centro Budista Tibetano
-description: Palden Shangpa São Paulo - Centro Budista Tibetano
+name: Kagyu Dzamling Kunkyab São Paulo - Centro Budista Tibetano
+description: Kagyu Dzamling Kunkyab São Paulo - Centro Budista Tibetano
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 12
@@ -12,8 +12,8 @@ sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/
 # Authors
 authors:
   palden:
-    name: Palden Shangpa - SP
-    display_name: Palden Shangpa - SP
+    name: Kagyu Dzamling Kunkyab - SP
+    display_name: Kagyu Dzamling Kunkyab - SP
     gravatar: a07793f4bd88aceb2ae90d83807f611f
     email: shangpa.sp@gmail.com
     twitter: https://www.facebook.com/PaldenShangpa/
