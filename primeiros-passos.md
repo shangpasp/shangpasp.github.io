@@ -20,7 +20,7 @@ comments: false
 <div id="mc_embed_signup">
 <form action="https://facebook.us20.list-manage.com/subscribe/post?u=4a7ee5987006432ad52e84c2e&amp;id=959dbeca19" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<label for="mce-EMAIL">Acompanhe a programação do Palden Shangpa pela newsletter mensal.</label>
+	<label for="mce-EMAIL">Acompanhe a programação do Kagyu Dzamling Kunkyab pela newsletter mensal.</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Endereço de e-mail" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_4a7ee5987006432ad52e84c2e_959dbeca19" tabindex="-1" value=""></div>
