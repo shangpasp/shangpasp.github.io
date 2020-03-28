@@ -3,30 +3,31 @@ layout: post-right-sidebar
 title:  "Retiro com Lama Tartchin"
 author: palden
 categories: 
-image: assets/images/posts/05-03-2020-lamatartchin.jpeg
+image: assets/images/posts/28-03-2020-gampopa.jpeg
 ---
 
-<p align="justify">Ensinamentos com o Lama Karma Tartchin sobre o Sadhana - O Método de Realização no Caminho do Vajrayana </p>
-
-<p align="justify">No Vajrayana, além de se tomar refúgio nas Três Joias, concomitantemente se toma refúgio nas Três Raízes, as Três Fontes: o Guru, o Yidam e os Protetores. A meditação no Vajrayana (gom) é baseada na segunda raíz, o Yidam - a fonte das bênçãos. </p>
-
-<p align="justify">Não é apenas uma mera súplica a uma divindade mas sim um treinamento e uma transformação por completo, muito mais profunda, no aspecto psico-físico do praticante. Essa transformação objetiva revelar por completo a natureza desperta, que é inerente a todos os seres sencientes.</p>
-
-<p align="justify">Nesse dia, Lama Karma Tartchin dará ensinamentos à todos aqueles engajados em práticas de Yidam sobre os "meios de realização", sadhana.</p>
-
-<p align="justify">Esse ensinamento é raro de ser oferecido e em português é uma oportunidade preciosa e única para aqueles que almejam seguir o caminho do Vajrayana. O método sadhana é completo, contém tanto os ensinamentos do Sutrayana expresso na liturgia como os ensinamentos do Mahayana, e contempla os dois treinamentos em meditação shamata e vipashyana. Esse caminho não é possível sem a devoção e o entendimento da importância do Guru. </p>
-
-<p align="justify">Lama Karma Tartchin irá nos ensinar sobre o que é sadhana e a importância do lama nesse método.</p>
-
-<p align="justify">Tais ensinamentos são essenciais para aqueles já engajados ou que irão se engajar na prática de Yidam, ou ainda para aqueles já com alguma base no caminho do Dharma. Sendo assim, estes não são apenas ensinamentos para mero conhecimento intelectual, mas sim, ensinamentos para serem aplicados a prática do individuo no Vajrayana.</p>
-
-Data: 28 e 29 de março de 2020
-Horário: das 8h às 18h
-Local: UNIPAZ | R. Pedro Morganti, 76 - Vila Mariana, São Paulo - SP
-Valor: R$70 os dois dias, R$40 cada dia.
-
-<p align="justify">Para participar, basta preencher o formulário clicando no link abaixo e aguardar nosso contato com a confirmação de sua inscrição e os dados para pagamento. </p>
-
-Tashi Delek!
-
-<a href="https://forms.gle/oF8WJf2AfKvQLU9u6">Clique aqui e inscreva-se! </a>
+<p align="justify">Ensinamentos com o Lama Karma Tartchin sobre o Sadhana - O Método de Realização no Caminho do Vajrayana 
+</p><p align="justify">
+Caros amigos, amanhã as 9h00 (29/03/2020), teremos um novo encontro!
+</p><p align="justify">
+Estamos realizando esses encontros de forma online, portanto, gostaríamos de convida-los a participar, pelo link: https://hangouts.google.com/call/3E0GgwWZgSoJa0fe0fKpAEEE…
+</p><p align="justify">
+No momento, estamos estudando o livro do Gampopa, ‘O Precioso Ornamento da Liberação”, estamos na quarta parte, sexto capitulo – Atos e seus Resultados”;
+</p><p align="justify">
+Para isso, além do estudo do livro do Gampopa, trouxemos Ensinamentos do precedente Kalu Rinpoche.
+</p><p align="justify">
+Para entendermos bem a estrutura do karma.
+</p><p align="justify">
+Poderíamos nos perguntar como chegamos até aqui?
+</p><p align="justify">
+O que está acontecendo no mundo nesse exato momento?
+</p><p align="justify">
+Por ter características de claridade, de desimpedimento e de ser de uma natureza vazia, a mente não nasce e não morre! Está sempre presente! Ela continua de um estado de existência a outro.
+</p><p align="justify">
+Por estarmos condicionado a confusão e sofrimento, vamos gerando ações física, verbal e mental que podem ser positiva ou negativa, assim continuamente vamos experimentando esses vários estados.
+</p><p align="justify">
+Te esperamos por lá!
+</p><p align="justify">
+Tashi Delek
+</p><p align="justify">
+Sangha KDK</p>
