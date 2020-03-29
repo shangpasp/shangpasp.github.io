@@ -9,7 +9,7 @@ image: assets/images/posts/28-03-2020-gampopa.jpg
 </p><p align="justify">
 Caros amigos, amanhã as 9h00 (29/03/2020), teremos um novo encontro!
 </p><p align="justify">
-Estamos realizando esses encontros de forma online, portanto, gostaríamos de convida-los a participar, pelo link: https://hangouts.google.com/call/3E0GgwWZgSoJa0fe0fKpAEEE…
+Estamos realizando esses encontros de forma online, portanto, gostaríamos de convida-los a participar, pelo link: https://meet.jit.si/KDK-N%C3%ADvel1
 </p><p align="justify">
 No momento, estamos estudando o livro do Gampopa, ‘O Precioso Ornamento da Liberação”, estamos na quarta parte, sexto capitulo – Atos e seus Resultados”;
 </p><p align="justify">
