@@ -1,12 +1,11 @@
 ---
 layout: post-right-sidebar
-title:  "Retiro com Lama Tartchin"
+title:  "Encontro online"
 author: palden
 categories: 
-image: assets/images/posts/28-03-2020-gampopa.jpeg
+image: assets/images/posts/28-03-2020-gampopa.jpg
 ---
 
-<p align="justify">Ensinamentos com o Lama Karma Tartchin sobre o Sadhana - O Método de Realização no Caminho do Vajrayana 
 </p><p align="justify">
 Caros amigos, amanhã as 9h00 (29/03/2020), teremos um novo encontro!
 </p><p align="justify">
