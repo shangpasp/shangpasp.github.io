@@ -98,6 +98,6 @@ Quatro Divindades
 
 <i>Obs.: A tomada de refúgio é o pré-requisito para receber essa iniciação.</i>
 
-<a href="https://kalu.org.br/loja">Inscrições</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScEV_7wnYaCcpCdE2lgNg_kQ9c14d3S8KCinlZR-j-zUoc4QQ/viewform">Inscrições</a>
 
 <p align="justify">Informações ou dúvidas: Shangpa.sp@gmail.com</p>
