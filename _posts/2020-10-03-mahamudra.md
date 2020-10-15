@@ -26,7 +26,7 @@ image: assets/images/mahamudra.jpeg
 <p align="justify">10h30 – Prática de Tchenrezig </p>
 <p align="justify">11h10 – Encerramento </p>
 
-<p align="justify">Para participar desse ciclo de ensinamentos será necessário realizar a inscrição. Clique <a href="https://kalu.org.br/loja">AQUI</a> para inscrever-se.</p>
+<p align="justify">Para participar desse ciclo de ensinamentos será necessário realizar a inscrição. Clique <a href="https://docs.google.com/forms/d/e/1FAIpQLScEV_7wnYaCcpCdE2lgNg_kQ9c14d3S8KCinlZR-j-zUoc4QQ/viewform">AQUI</a> para inscrever-se.</p>
 
 <p align="justify">Caso deseje contribuir com o KDK por esses ensinamentos, fica aberta a possibilidade de contribuições voluntárias ou doações. </p>
 
