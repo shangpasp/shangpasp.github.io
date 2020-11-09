@@ -19,9 +19,7 @@ Das 14h às 17h (com intervalo)
 <p align="justify">Para participar desse Ensinamento será necessário preencher o Formulário de Inscrição.</p>
 
 
-ACESSE O FORMULÁRIO PELO LINK:
-
-https://docs.google.com/forms/d/e/1FAIpQLScscNAIAGBYT0Vah7u6Na7vAY4G8dkfG_Fv80hwVm_8upyVLw/viewform
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScscNAIAGBYT0Vah7u6Na7vAY4G8dkfG_Fv80hwVm_8upyVLw/viewform">CLIQUE AQUI E ACESSE O FORMULÁRIO</a>
 
 O valor da inscrição é de R$ 50,00.
 
