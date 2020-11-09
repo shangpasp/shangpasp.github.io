@@ -19,9 +19,7 @@ CRONOGRAMA:
 
 <p align="justify">Para participar desse Ensinamento será necessário preencher o Formulário de Inscrição. </p>
 
-ACESSE O FORMULÁRIO PELO LINK:
-
-https://forms.gle/VjmohsEJUAmEwQzz5
+<a href="https://forms.gle/VjmohsEJUAmEwQzz5">CLIQUE AQUI E ACESSE O FORMULÁRIO</a>
 
 O valor da inscrição é de R$ 150,00. 
 
