@@ -2,7 +2,7 @@
 layout: post-right-sidebar
 title:  "Ensinamento - O Ornamento da Preciosa Liberação - Lama Wangdu"
 author: palden
-image: assets/images/mahamudra.jpeg
+image: https://i.imgur.com/Tv3mNiu.jpg
 ---
 
 <p align="justify">No dia 5 de dezembro teremos a oportunidade especial de,  junto do Lama Wangdu, recapitular e sintetizar os aprendizados que tivemos com o estudo do Ornamento da Preciosa Liberação, a joia que realiza todas as aspirações. </p>
