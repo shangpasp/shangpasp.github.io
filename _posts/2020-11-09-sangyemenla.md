@@ -2,7 +2,7 @@
 layout: post-right-sidebar
 title:  "Ensinamentos sobre SANGYE MENLA (BUDA DA MEDICINA) com Lama Drime"
 author: palden
-image: https://i.imgur.com/YfCkoBT.jpg
+image: assets/images/posts/09111.jpeg
 ---
 
 <p align="justify">A prática do Buda da Medicina (ou Sangye Menla em tibetano) é o próprio cerne da medicina tibetana e meditar no Buda da Medicina pode ajudar a diminuir as doenças físicas e mentais e o sofrimento. Além de ser um método muito poderoso para curar e aumentar os poderes de cura tanto para si mesmo quanto para os outros, também é um grande aliado para aqueles que buscam superar a doença interior do apego, ódio, ignorância e purificar o carma negativo físico e mental. </p>
