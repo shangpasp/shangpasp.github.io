@@ -17,7 +17,7 @@ TEXTO
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/mahakala-i.jpg)
 
-    <!-- Grid 1-->
+
   <div class="w3-row-padding">
     <div class="w3-third w3-container w3-margin-bottom">
       <img src="https://demo.snipcart.com/images/starry-night.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
@@ -70,7 +70,7 @@ TEXTO
   </div>
   
   
-    <!-- Grid 2-->
+
   <div class="w3-row-padding">
     <div class="w3-third w3-container w3-margin-bottom">
       <img src="https://demo.snipcart.com/images/almond.jpg" alt="Norway" style="width:100%" class="w3-hover-opacity">
