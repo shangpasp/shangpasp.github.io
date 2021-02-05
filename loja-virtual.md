@@ -3,11 +3,10 @@ layout: page
 title: Loja Virtual
 comments: false
 ---
-
-    <script async src="https://cdn.snipcart.com/themes/v3.0.29/default/snipcart.js"></script>
-    <div hidden id="snipcart" data-api-key="MjVhOTFmYzctYjgxZS00MTcyLTkwYmUtNTdhOTk0ODQ1OGFjNjM3MzQ1NTgzODk2NDYxODkx
-"></div>
-    <div hidden id="snipcart" data-api-key="<API_KEY>" data-config-add-product-behavior="none"></div>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<script async src="https://cdn.snipcart.com/themes/v3.0.29/default/snipcart.js"></script>
+<div hidden id="snipcart" data-api-key="MjVhOTFmYzctYjgxZS00MTcyLTkwYmUtNTdhOTk0ODQ1OGFjNjM3MzQ1NTgzODk2NDYxODkx"></div>
+<div hidden id="snipcart" data-api-key="<API_KEY>" data-config-add-product-behavior="none"></div>
 <div hidden id="snipcart" data-api-key="<API_KEY>" data-config-modal-style="side"></div>
 
 #### TEXTO
